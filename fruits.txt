@@ -4,3 +4,12 @@ mango
 orange
 pineapple
 watermelon
+
+# Countries
+
+USA
+Nepal
+India
+China
+Russia
+Japan
